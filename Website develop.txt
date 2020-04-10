@@ -2,3 +2,5 @@ Website Developer
 - Publish Project Laravel Vue yang interaktif
 - Publish Project Fullstack Web Developer
 - Publish Website Fullstack Designer
+- Bikin Website Pribadi Project 
+- Dan masih banyak lagi
